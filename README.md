@@ -95,7 +95,7 @@ El objetivo final es proporcionar información valiosa para la toma de decisione
 
 ## Referencias
 
-- **Agencia Internacional de Energía (IEA)**
+- **Agencia Internacional de Energía [IEA](https://www.iea.org/)**
 - **Documentación de [Streamlit](https://docs.streamlit.io/)**
 - **Documentación de [Plotly](https://plotly.com/python/)**
 - **Documentación de [statsmodels](https://www.statsmodels.org/)**
